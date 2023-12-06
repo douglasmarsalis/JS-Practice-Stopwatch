@@ -1,9 +1,3 @@
-/*Font Family from Google Fonts*/
-@font-face {
-    font-family: 'Arimo';
-    src: url(https://fonts.google.com/specimen/Arimo);
-}
-
 /*Color Variables*/
 /*Used variables for easy styling*/
 :root {
@@ -15,7 +9,7 @@
 
 /*Main page setup*/
 body {
-    font-family: Arimo, sans-serif, serif;
+    font-family: Arial, Helvetica, sans-serif, serif;
     background-color: var(--orange);
     height: 100vh;
 }
@@ -28,7 +22,7 @@ body {
     padding-bottom: 50px;
     color: var(--white);
     text-align: center;
-    border: solid var(--black) 4px;
+    border: solid var(--white) 4px;
     border-radius: 10px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;;
 }
@@ -38,7 +32,6 @@ body {
 h1, 
 h2, 
 h3 {
-    font-family: 'Roboto', sans-serif, serif;
     font-weight: 100;
     font-size: 2.5em;
     text-transform: uppercase;
@@ -65,7 +58,7 @@ button {
     width: 180px;
     padding: 20px 50px;
     cursor: alias;
-    box-shadow: 0 60px 80px rgba(0, 0, 0, 0.60), 0 45px 26px rgba(0, 0, 0, 0.14);
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;;
 }
 
 button:hover {
