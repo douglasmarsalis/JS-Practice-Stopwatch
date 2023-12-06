@@ -15,7 +15,7 @@ body {
 }
 
 /*Stopwatch container styling*/
-/*Box shadow - https: //getcssscan.com/css-box-shadow-examples*/
+/*Box shadow - https://getcssscan.com/css-box-shadow-examples*/
 .container {
     width: 800px;
     margin: 200px auto;
@@ -28,7 +28,7 @@ body {
 }
 
 /*Headings styling*/
-/*Text shadow - https: //www.codesdope.com/blog/article/25-creative-css3-text-shadow-effects-you-cant-miss/*/
+/*Text shadow - https://www.codesdope.com/blog/article/25-creative-css3-text-shadow-effects-you-cant-miss/*/
 h1, 
 h2, 
 h3 {
@@ -40,7 +40,7 @@ h3 {
 }
 
 /*Stopwatch styleing*/
-/*Text shadow - https: //www.codesdope.com/blog/article/25-creative-css3-text-shadow-effects-you-cant-miss/*/
+/*Text shadow - https://www.codesdope.com/blog/article/25-creative-css3-text-shadow-effects-you-cant-miss/*/
 #seconds,
 #tens {
     font-size: 2em;
@@ -48,7 +48,7 @@ h3 {
             0px -4px 10px rgba(255, 255, 255, 0.3);
 }
 
-/*box-shadow - https: //htmlcssfreebies.com/css-box-shadow-examples/*/
+/*box-shadow - https://htmlcssfreebies.com/css-box-shadow-examples/*/
 button {
     font-size: 1.25em;
     color: var(--white);
