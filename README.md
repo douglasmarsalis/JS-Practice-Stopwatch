@@ -10,6 +10,11 @@ This is practice 1/24 using HTML, CSS and Vanilla JavaScript building a simple s
 * Box shadow: https://getcssscan.com/css-box-shadow-examples
 * Text shadow: https://www.codesdope.com/blog/article/25-creative-css3-text-shadow-effects-you-cant-miss/
 
+## Deployment
+* https://douglasmarsalis.github.io/JS-Practice-Stopwatch/
+
+## Images
+
 
 ## License
 MIT License
