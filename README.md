@@ -14,7 +14,7 @@ This is practice 1/24 using HTML, CSS and Vanilla JavaScript building a simple s
 * https://douglasmarsalis.github.io/JS-Practice-Stopwatch/
 
 ## Images
-
+![screenshotTimer](https://github.com/douglasmarsalis/JS-Practice-Stopwatch/assets/112460009/faf9f2b7-a5a1-4163-9af3-2d54935899a4)
 
 ## License
 MIT License
