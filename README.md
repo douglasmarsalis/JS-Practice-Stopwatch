@@ -1,5 +1,9 @@
 # JS-Practice-Stopwatch
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://www.ecma-international.org/ecma-262/6.0/)
+[![HTML](https://img.shields.io/badge/HTML5-blue)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/CSS3-orange)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 ## [![License: APACHE2.0](https://img.shields.io/badge/License:_MIT-orange)](https://opensource.org/license/mit/)
 
 ## Description
